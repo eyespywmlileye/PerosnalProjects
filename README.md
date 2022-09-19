@@ -1,6 +1,8 @@
 # Personal Projects
 A few personal projects I made.
 
+> IMDB Movie Review 
+
 > Spotify Sentiment Analysis => NLP 
 
 > Twitter Disaster Identification => NLP 
