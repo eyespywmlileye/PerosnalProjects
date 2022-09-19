@@ -1,4 +1,4 @@
-# PerosnalProjects
+# Personal Projects
 A few personal projects I made.
 
 > Spotify Sentiment Analysis => NLP 
