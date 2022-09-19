@@ -1,2 +1,3 @@
 # PerosnalProjects
-A few personal projects I made
+A few personal projects I made.
+
