@@ -13,7 +13,7 @@ A few personal projects I made.
 
 > Titanic dataset => Classification 
 
-> BTC predictor => Regression 
+> Gold Predictor => Time Series  
 
 > Automatic Speech Recognition => Audio Classification 
 
