@@ -1,7 +1,7 @@
 # Personal Projects
 A few personal projects I made.
 
-> IMDB Movie Review 
+> IMDB Movie Review => NLP
 
 > Spotify Sentiment Analysis => NLP 
 
@@ -10,6 +10,8 @@ A few personal projects I made.
 > Traffic Sign Identification => Classification
 
 > 101Food => Classification
+
+> international_airline_passengers_prediction => Basic time series 
 
 > Gold Predictor => Time Series  
 
