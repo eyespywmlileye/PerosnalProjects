@@ -1,5 +1,5 @@
 # Personal Projects
-A few personal projects I made from Jan 2022 to June 2022: 
+A few personal projects I made from Jan 2022 to Sep 2022: 
 
 > Gold Predictor => Time Series  
 * Aim: Predict the futre price of gold, this is a multivariant forecasting model , it uses other macro factors that affect gold e.g the strength of the dollar , to predict the price of gold. Forecasting for stock prices can be very difficult as there are many factors to consider and thus data to gather 
