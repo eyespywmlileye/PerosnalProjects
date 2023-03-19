@@ -7,8 +7,8 @@ A few personal projects I made from Jan 2022 to June 2022:
 > Automatic Speech Recognition => Audio Classification 
 * Aim: Able to predict (from 10 words) the word spoken by anybody, it does this by processing the audio in to different forms ie. waveforms , spectograms , mel-spectrograms etc , this system can be used in the same way "Hey Siri" works, as an initiating word/phrase to activate other models, thus increasing computational efficiency 
 
-> IMDB Movie Review => NLP
-* Aim: Able to rate a movie revieww
+> Object Detection
+* Aim: This notebook demostrates the ability to create, train and utlise a deskop camera to create an facial detection model that can be configured for other use-cases
 
 > Spotify Sentiment Analysis => NLP 
 * Aim: Is able to categorise a music review from bad, avergae , good (0-1, 2-3, 4-5 stars) , if the user just left a comment with no rating.
